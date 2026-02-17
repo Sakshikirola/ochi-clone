@@ -11,7 +11,7 @@ const Landing = () => {
              {index === 1 && (<div className='mr-[1vw] w-[7vw] rounded-md h-[5vw] bg-green-400 relative'></div>)} 
              <h1 className='uppercase text-[6.5vw] leading-[6vw] tracking-tighter font-bold font-["Founders Grotesk"]'>
               {item}  
-             </h1> 
+             </h1>  
             </div> 
          </div> 
         })} 
