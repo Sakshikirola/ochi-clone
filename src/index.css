@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Founders Grotesk";
+  src: url("./assets/fonts/FoundersGrotesk-Semibold.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: "Neue Montreal"; 
+  src: url("./assets/fonts/NeueMontreal.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
