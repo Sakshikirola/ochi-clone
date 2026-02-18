@@ -3,7 +3,7 @@
 A smooth animated website inspired by Ochi Design.
 This project was created for learning advanced frontend animations, smooth scrolling effects, and interactive UI elements. 
 
-🚀 Live Demo : https://your-ochi-clone.netlify.app
+🚀 Live Demo : https://ochi-clone-khaki-one.vercel.app/
 
 📌 About The Project
 This is a frontend clone of the Ochi website built to practice:
