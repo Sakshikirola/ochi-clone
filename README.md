@@ -1,16 +1,40 @@
-# React + Vite
+🌿 Ochi Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A smooth animated website inspired by Ochi Design.
+This project was created for learning advanced frontend animations, smooth scrolling effects, and interactive UI elements. 
 
-Currently, two official plugins are available:
+🚀 Live Demo : https://your-ochi-clone.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 About The Project
+This is a frontend clone of the Ochi website built to practice:
+Smooth scrolling animations
+Parallax effects
+Cursor-based interactions
+Scroll-triggered animations
+Modern UI transitions
+Clean component structure
 
-## React Compiler
+The goal of this project was to deeply understand how smooth animation-based websites are built.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Built With:
+⚛️ React.js
+🎨 Tailwind CSS
+🎥 Framer motion
 
-## Expanding the ESLint configuration
+✨ Features
+Smooth scroll animation
+Parallax scrolling effects
+Mouse-move based animations
+Animated text reveals
+Interactive cursor / pupil movement
+Scroll speed control using data-scroll-speed
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🎯 Purpose of This Project
+This project is purely for learning and educational purposes.
+All design credits belong to Ochi Design. 
+
+🙌 Acknowledgement
+Design inspired by Ochi Design.
+This project helped me understand how modern animated agency websites are structured and animated.
+

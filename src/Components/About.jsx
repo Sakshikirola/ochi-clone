@@ -9,8 +9,10 @@ const About = () => {
          <h1 className='text-5xl'>How we can help:</h1>
          <button className='flex gap-10 items-center px-10 mt-8 py-4 bg-zinc-900 rounded-full text-white uppercase'>Read More <div className='w-3 h-3 bg-zinc-100 rounded-full'></div></button> 
         </div>
-        <div className='w-1/2 h-[70vh] rounded-3xl bg-[#a1b562]'></div> 
-      </div> 
+        <div className='w-1/2 h-[70vh]'>
+           <img className='bg-cover h-full w-full rounded-3xl' src="https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-1326x939.jpg" alt="" />
+        </div> 
+      </div>  
     </div> 
   )
 }
